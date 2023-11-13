@@ -1,0 +1,6 @@
+region = "us-central1"
+project_id = "colorado-shie-project-757665"
+project_name = "Colorado SHIE Project 757665"
+credentials = "/Users/swood/Library/CloudStorage/OneDrive-Resultant/SHIE/Important Files/colorado-shie-project-757665-5ef7f6c50b3e.json"
+org_id = "577905868606"
+project_number = "484766626703"
